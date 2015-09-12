@@ -1,6 +1,4 @@
-# JSFrontLog
-JavaScrip front-end logger
-
+# JavaScrip front-end logger
 =============
 JSFrontLog is used to catch all unhandled exeptions by passing full JavaScript stack trace, browser information (name \ version), and actual error message.
 
